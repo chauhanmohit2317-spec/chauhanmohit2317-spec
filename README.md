@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
+![Banner](me.png)
 
 # 💫 About Me
 
