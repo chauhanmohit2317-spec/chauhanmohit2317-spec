@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I am **Nagraj Rangarej**, a B.Tech student in **Artificial Intelligence & Data Science**, with extensive hands-on experience building **multiple machine learning and AI-driven projects**.
+I am **CHAUHAN MOHIT**, a B.Tech student in **COMPUTER ENGINEERING (CYBER SECURITY)**, with extensive hands-on experience building **CYBER SECURITY**.
 
 I have worked on **a wide range of ML applications**, including data analysis systems, predictive models, intelligent automation tools, and real-world problem-solving pipelines. One of my notable projects is **Luna**, a custom-built **AI voice assistant** capable of handling commands, processing speech, and executing intelligent actions through modular system design.
 
@@ -60,12 +60,8 @@ THANK YOU <3
 ## 🚀 Skill Proficiency
 
 text
-Python        ████████████████░░ 85%
+Python        ████████████████░░ 75%
 Java          █████████████░░░░░ 70%
-JavaScript    ███████████████░░░ 80%
-Machine Learn ████████████░░░░░░ 65%
-Backend Dev   ███████████████░░░ 80%
-System Design █████████████░░░░░ 70%
 
 
 
