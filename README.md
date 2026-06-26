@@ -3,10 +3,6 @@
 # 💫 About Me
 # Hi 👋, I'm CHAUHAN MOHIT
 
-<p align="center">
-  <img src="me.jpeg" width="220" style="border-radius:50%;">
-</p>
-
 <h3 align="center">
 Cyber Security Student | AI Developer | Python Programmer
 </h3>
